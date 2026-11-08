@@ -47,7 +47,7 @@ cd pedidos && ./mvnw spring-boot:run
 ![Errores 400 y 409](imagenes/errores-400-409.png)
 
 ### 6. Catálogo apagado: Pedidos responde 503
-![Catálogo apagado 503](imagenes/catalogo-apagado-503.png)
+![Catalogo apagado 503](imagenes/catalogo-apagado.png)
 
 ### 7. Pedidos sigue funcionando con Catálogo apagado (200)
 ![Pedidos sigue vivo](imagenes/pedidos-sigue-vivo.png)
